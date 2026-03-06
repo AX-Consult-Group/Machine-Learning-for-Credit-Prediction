@@ -1,6 +1,7 @@
 # Machine-Learning-for-Credit-Prediction
 This analysis demonstrates how psychometric data and advanced ML techniques can be used to create a reliable credit score for people with a limited credit history (thin-file applicants). 
 
+![Infographic: Design Overview](infographic.png)
 ---
 
 ## Important notes
