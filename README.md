@@ -1,5 +1,5 @@
 # Machine-Learning-for-Credit-Prediction
-This analysis demonstrates how psychometric data can be used to create a reliable credit score for people with a limited credit history (thin-file applicants). We also compare simple models like logistic regression with advanced ML techniques to showcase how these methods capture complex relationships and improve predictive power.
+This analysis demonstrates how psychometric data and advanced ML techniques can be used to create a reliable credit score for people with a limited credit history (thin-file applicants). 
 
 ---
 
@@ -10,6 +10,17 @@ This analysis demonstrates how psychometric data can be used to create a reliabl
 - **All financial data** (accounts, arrears, age on book, bad outcome) is simulated 
 - No real candidate or client information is included
 - Minor differences in model performance compared to the original analysis are expected due to simulation noise 
+
+---
+
+## Methods
+
+We tested the following models: 
+- Logistic regression (baseline model)
+- SVM
+- Random Forest
+- XGBoost
+- SuperLearner
 
 ---
 
