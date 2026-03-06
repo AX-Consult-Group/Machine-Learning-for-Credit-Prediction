@@ -15,7 +15,9 @@ This analysis demonstrates how psychometric data can be used to create a reliabl
 
 ## How to view the report
 
-The full rendered report is available via **GitHub Pages**:
+The full rendered report is available via **GitHub Pages**: 
+
+https://ax-consult-group.github.io/Machine-Learning-for-Credit-Prediction/
 
 ---
 
