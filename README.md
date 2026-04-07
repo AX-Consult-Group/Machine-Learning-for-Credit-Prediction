@@ -29,7 +29,7 @@ We tested the following models:
 
 The full rendered report is available via **GitHub Pages**: 
 
-https://ax-consult-group.github.io/Machine-Learning-for-Credit-Prediction/
+https://ax-consult-group.github.io/Machine-Learning-for-Credit-Prediction-Phase1/
 
 ---
 
